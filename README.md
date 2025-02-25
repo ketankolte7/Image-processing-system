@@ -2,6 +2,8 @@
 
 This document outlines the API endpoints provided by the Image Processing Service.
 
+![Alt text](Image Processing System Flow Diagram.png)
+
 ## Base URL
 
 All API endpoints are relative to the base URL: `http://localhost:5000`
