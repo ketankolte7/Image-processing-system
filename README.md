@@ -2,7 +2,7 @@
 
 This document outlines the API endpoints provided by the Image Processing Service.
 
-![Alt text](Image Processing System Flow Diagram.png)
+![Alt text](https://github.com/ketankolte7/Image-processing-system/blob/master/Image%20Processing%20System%20Flow%20Diagram.png)
 
 ## Base URL
 
